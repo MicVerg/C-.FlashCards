@@ -5,6 +5,7 @@ Since there's a focus on back-end, the display happens in console.
 The question is a word or sentence in a foreign language, the answer you are supposed to give is the English translation.
 Each card is part of a stack (For example the stack "Arabic").
 
+[Watch this demo](https://www.youtube.com/watch?v=QdhPAbm_QHA)
 # Given Requirements
 - [x] This is an application where the users will create Stacks of Flashcards.
 - [x] You'll need two different tables for stacks and flashcards. The tables should be linked by a foreign key.
